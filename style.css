@@ -1,0 +1,22 @@
+h2{
+    color: chocolate;
+    font-style: Times;
+    font-size: 20px;
+    align-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h4{
+    color: coral;
+    font-style: italic;
+    font-size: 20px;
+    align-content: center;
+}
+.merah{
+    color: cornflowerblue;
+    font-style:oblique;
+    font-size: 50px;
+    align-content: center;
+}
+.garis_bawah{
+  text-decoration:underline;
+}
